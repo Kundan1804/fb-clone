@@ -9,7 +9,7 @@ function StoryReel() {
                profileSrc="https://avatars.githubusercontent.com/u/89646576?s=400&u=091053fa5695eb2b2e16b8092cb0bc1dfd1ed6a5&v=4"
                title="Kundan Agrawal"
         />
-        <Story image="https://wallpaperstock.net/warriors%3a-legends-of-troy-wallpapers_21451_320x480.jpg"
+        <Story image="https://t3.ftcdn.net/jpg/05/63/10/88/360_F_563108832_Rh2mcGC0rhhBFPtHBNMDPKizyyw6WiBl.jpg"
                profileSrc="https://cdnb.artstation.com/p/assets/images/images/039/181/737/large/jan-schlegel-achilles.jpg?1625161337"
                title="Achillies Peleuside"
         />
